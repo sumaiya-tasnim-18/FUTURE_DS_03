@@ -4,8 +4,8 @@ This repository showcases my TASK-03 of the “Data Science & Analytics Internsh
 # 📇 Project Overview
 
     • Dataset: Student feedback dataset (student_feedback.csv → Student_Event_Feedback_Analysis.csv)
-    • Tools: Python (pandas, TextBlob, VADER), Microsoft Power BI
-    • Focus Areas: Sentiment Analysis, Rating Evaluation, Data Cleaning, KPI Creation, and Interactive Dashboard Design
+    • Tools: Python (pandas, TextBlob, VADER, NLP(Natural Language Processing), Microsoft Power BI
+    • Focus Areas: Data cleaning, Sentiment Analysis, Survey Insights, Charting, NLP, Rating Evaluation,KPI Creation, and Interactive Dashboard Design
 
 # ╰┈➤📝 Steps Breakdown
 
