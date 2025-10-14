@@ -30,7 +30,8 @@ Delivered a cleaned dataset and a Power BI dashboard showcasing student satisfac
     • Insight Visualization & Interpretation
 
 # ⭕ Final Interactive Dashboard (Image)
-<img width="1353" height="735" alt="Dashboard preview (image)" src="https://github.com/user-attachments/assets/7e5b45ba-3f37-4309-bdbc-84129825019a" />
+<img width="1355" height="733" alt="Dashboard preview (image)" src="https://github.com/user-attachments/assets/13ade02a-eef7-4fb9-9572-c5171cc4ae05" />
+
 
 
 
